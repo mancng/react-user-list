@@ -1,6 +1,6 @@
 ## Simple React v18.2.0 application showcases the following:
 
-- React Hoods
+- React Hooks
 - Interface
 - Make Api calls
 - Material UI
